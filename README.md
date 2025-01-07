@@ -43,7 +43,7 @@ The Jokes Rating Prediction System leverages the Jester Dataset 3, which consist
 
 ## Features
 
-- **Collaborative Filtering**: The system uses collaborative filtering techniques to generate personalized joke predictions.
+- **Collaborative Filtering**: The system uses collaborative filtering techniques to generate joke predictions.
 - **Random Recommender**: A baseline random recommender is implemented for comparison.
 - **Real-Valued Ratings**: The dataset contains real-valued ratings, providing a richer input for the recommendation algorithm.
 
