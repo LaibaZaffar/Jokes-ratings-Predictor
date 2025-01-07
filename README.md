@@ -1,4 +1,4 @@
-# Jokes Rating Prediction System
+## Overview
 
 This repository contains a Jokes Rating Prediction System that utilizes user ratings of jokes to predict the ratings for the jokes. It uses both a collaborative recommender and a random recommender for prediction. The system is evaluated using Mean Absolute Error (MAE). This project is implemented in Python and utilizes libraries such as NumPy, Pandas, and others.
 
