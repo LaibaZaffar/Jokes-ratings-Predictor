@@ -35,7 +35,7 @@ The Jokes Rating Prediction System leverages the Jester Dataset 3, which consist
    - The unzipped files should contain the user ratings for jokes and the joke texts, respectively.
 
 2. **Ratings Predictor System**:
-   - The Jokes Rating Prediction System is implemented in the `User Ratings Predictor For Jokes.ipynb` Jupyter Notebook.
+   - The Jokes Rating Prediction System is implemented in the `User Ratings Predictor for Jokes.ipynb` Jupyter Notebook.
    - Load the dataset into the notebook and run the cells to test the recommender system and generate joke predictions.
 
 3. **Evaluation**:
